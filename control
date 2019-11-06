@@ -1,4 +1,4 @@
-Package: ni-xnet_monitor-veristand-{veristand_version}
+Package: ni-xnet-monitor-veristand-{veristand_version}
 Version: {nipkg_version}
 Architecture: windows_all
 Maintainer: National Instruments <support@ni.com>
