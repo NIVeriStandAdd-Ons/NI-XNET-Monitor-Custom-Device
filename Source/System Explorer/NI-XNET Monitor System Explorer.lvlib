@@ -61,6 +61,7 @@
 			<Item Name="Get Monitoring CD ports.vi" Type="VI" URL="../Get Monitoring CD ports.vi"/>
 			<Item Name="OnLoad - Add Missing CD Ports for unreferenced NI-XNET Ports.vi" Type="VI" URL="../OnLoad - Add Missing CD Ports for unreferenced NI-XNET Ports.vi"/>
 			<Item Name="OnLoad - Remove CD Ports Wihout Referenced NI-XNET Port.vi" Type="VI" URL="../OnLoad - Remove CD Ports Wihout Referenced NI-XNET Port.vi"/>
+			<Item Name="Read Bus Load Settings.vi" Type="VI" URL="../Read Bus Load Settings.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder"/>
 	</Item>

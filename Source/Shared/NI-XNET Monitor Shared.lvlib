@@ -35,6 +35,7 @@
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Shared" Type="Folder">
 		<Item Name="Types" Type="Folder">
+			<Item Name="BusLoad.Settings.ctl" Type="VI" URL="../BusLoad.Settings.ctl"/>
 			<Item Name="Compiled.Data.ctl" Type="VI" URL="../Compiled.Data.ctl"/>
 		</Item>
 		<Item Name="Constants.vi" Type="VI" URL="../Constants.vi"/>
