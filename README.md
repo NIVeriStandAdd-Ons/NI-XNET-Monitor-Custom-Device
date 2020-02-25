@@ -1,6 +1,6 @@
 # NI-XNET-Monitor-Custom-Device
 
-The NI-XNET Monitor Custom Device allows a user to run subordinate XNET session for each port in the system to be able to monitor port status, error counters, frame counter and other interface health indicators. It's implemented as HW Inline Asynchronous Custom Device.
+The NI-XNET Monitor Custom Device allows a user to run subordinate XNET session for each port in the system to be able to monitor port status, error counters, frame counter and other interface health indicators. This custom device also allows estimating the bus load present for the CAN buses added to the system. It's implemented as HW Inline Asynchronous Custom Device.
 
 ### LabVIEW Version ###
 
