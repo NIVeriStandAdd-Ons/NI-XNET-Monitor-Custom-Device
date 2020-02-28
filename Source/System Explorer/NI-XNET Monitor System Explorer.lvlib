@@ -62,7 +62,13 @@
 			<Item Name="OnLoad - Add Missing CD Ports for unreferenced NI-XNET Ports.vi" Type="VI" URL="../OnLoad - Add Missing CD Ports for unreferenced NI-XNET Ports.vi"/>
 			<Item Name="OnLoad - Remove CD Ports Wihout Referenced NI-XNET Port.vi" Type="VI" URL="../OnLoad - Remove CD Ports Wihout Referenced NI-XNET Port.vi"/>
 			<Item Name="Read Bus Load Settings.vi" Type="VI" URL="../Read Bus Load Settings.vi"/>
+			<Item Name="Create Multiple Channels.vi" Type="VI" URL="../Create Multiple Channels.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder"/>
+		<Item Name="Version Manager" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="Version Manager.vi" Type="VI" URL="../Version Manager/Version Manager.vi"/>
+			<Item Name="Upgrade Version.vi" Type="VI" URL="../Version Manager/Upgrade Version.vi"/>
+		</Item>
 	</Item>
 </Library>
