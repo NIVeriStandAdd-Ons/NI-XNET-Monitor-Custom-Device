@@ -4,7 +4,7 @@ set "BuildProject=Source\NI-XNET Monitor Custom Device.lvproj"
 set "BuildProjectTargetsList="My Computer" "RT PXI Target" "RT CompactRIO Target" "RT CompactRIO Target - Linux ARM" "RT CompactRIO Target - Linux x64""
 
 set LabVIEWCLI=C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI\LabVIEWCLI.exe
-set LabVIEWPath="C:\Program Files (x86)\National Instruments\LabVIEW 2017\LabVIEW.exe"
+set LabVIEWPath="C:\Program Files (x86)\National Instruments\LabVIEW 2018\LabVIEW.exe"
 
 @echo off
 
